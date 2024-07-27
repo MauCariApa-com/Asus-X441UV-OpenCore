@@ -30,6 +30,7 @@ Hackintosh resources for Asus X441UV
  - Battery status
  - Keyboard + FN button keys
  - TrackPad + Multitouch Support
+ - Brightness
  - Audio
  - Wifi AR9565
  - HDMI Ports
@@ -38,5 +39,11 @@ Hackintosh resources for Asus X441UV
  - WebCam
 
 **Not Work:**
- - Brightness
- - Backlight Control
+- Fn Brightness (Brightness slider work)
+
+**credit**
+@apple
+@acidanthera
+@daliansky
+@olarila for base EFI
+@phantomhell
