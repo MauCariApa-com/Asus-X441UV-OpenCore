@@ -42,8 +42,8 @@ Hackintosh resources for Asus X441UV
 - Fn Brightness (Brightness slider work)
 
 **credit**
-@apple
-@acidanthera
-@daliansky
-@olarila for base EFI
-@phantomhell
+- Apple
+- Acidanthera
+- Daliansky
+- Olarila for base EFI
+- phantomhell
